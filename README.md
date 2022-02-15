@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SnowHana
-- 👀 I’m interested in 
+- 👀 I’m interested in exercising (swimming, bouldering, just chilling at the gym...) (I'm down for any exercise actually haha)
 - 🌱 I’m currently learning Computer Engineering with Mathematics on UNSW (planning to transfer to Adv.math with CS tho ^^7)
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to learning AI!
 - 📫 How to reach me :) 
 
 <!---
