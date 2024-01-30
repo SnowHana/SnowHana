@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SnowHana
-- 👀 I’m interested in exercising (swimming, bouldering) and ...league
-- 🌱 I’m currently learning Software Engineering with Mathematics on UNSW 
-- 💞️ I’m looking to learning trading...?
+- 👀 I’m interested in algorithm design/verification, optimisation and constraint programming.
+- 🌱 I’m currently studying Computer Science and Mathematics at University of New South Wales, located in Sydney, Australia.
 - 📫 How to reach me :) 
 
 <!---
